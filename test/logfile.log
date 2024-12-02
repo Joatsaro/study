@@ -1,0 +1,8 @@
+2024-06-20 17:25:52,556 :INFO :pytestDemo.BaseClass :Rahul
+2024-06-20 17:25:52,556 :INFO :pytestDemo.BaseClass :rahulshettyacademy.com
+2024-06-20 17:31:39,829 :INFO :test_editProfile :Information statement
+2024-06-20 17:31:39,829 :WARNING :test_editProfile :Something is in warning mode
+2024-06-20 17:31:39,829 :ERROR :test_editProfile :A major error has happened
+2024-06-20 17:31:39,829 :CRITICAL :test_editProfile :Critical issue
+2024-06-20 17:31:39,829 :INFO :test_editProfile :Rahul
+2024-06-20 17:31:39,829 :INFO :test_editProfile :rahulshettyacademy.com

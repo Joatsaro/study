@@ -1,0 +1,45 @@
+[{"Before":"{\"MessageId\":107996,\"MessageRecipientId\":107994,\"ToUserId\":null,\"ToAdminUserId\":null,\"ToMessageRecipientGroupId\":1,\"ReadDate\":null}",
+  "After":"{\"MessageId\":107996,\"MessageRecipientId\":107994,\"ToUserId\":null,\"ToAdminUserId\":null,\"ToMessageRecipientGroupId\":1,\"ReadDate\":\"2024-05-06 22:07:24.515879+00\"}",
+  "Context":"Q2_MessageRecipient","ContextId":"107994"}]
+
+[{"Before":"{\"ThreadId\":107506,\"StatusId\":20}",
+  "After":"{\"ThreadId\":107506,\"StatusId\":18}",
+  "Context":"Q2_MessageThread","ContextId":"107506"}]
+
+[{"Before":"{\"MessageId\":107997,\"MessageRecipientId\":107995,\"ToUserId\":null,\"ToAdminUserId\":null,\"ToMessageRecipientGroupId\":2,\"ReadDate\":null}",
+  "After":"{\"MessageId\":107997,\"MessageRecipientId\":107995,\"ToUserId\":null,\"ToAdminUserId\":null,\"ToMessageRecipientGroupId\":2,\"ReadDate\":\"2024-05-06 22:19:50.536698+00\"}",
+  "Context":"Q2_MessageRecipient","ContextId":"107995"}]
+
+[{"Before":"{\"MessageId\":107996,\"MessageRecipientId\":107994,\"ToUserId\":null,\"ToAdminUserId\":null,\"ToMessageRecipientGroupId\":1,\"ReadDate\":null}",
+  "After":"{\"MessageId\":107996,\"MessageRecipientId\":107994,\"ToUserId\":null,\"ToAdminUserId\":null,\"ToMessageRecipientGroupId\":1,\"ReadDate\":\"2024-05-06 22:07:24.515879+00\"}",
+  "Context":"Q2_MessageRecipient","ContextId":"107994"}]
+
+[{"Before":"{\"ThreadId\":107944,\"StatusId\":17}",
+  "After":"{\"ThreadId\":107944,\"StatusId\":19}",
+  "Context":"Q2_MessageThread","ContextId":"107944"}]
+
+[{"Before":"{\"ThreadId\":107944,\"StatusId\":19}",
+  "After":"{\"ThreadId\":107944,\"StatusId\":20}",
+  "Context":"Q2_MessageThread","ContextId":"107944"}]
+
+[{"Before":"{\"ThreadId\":107944,\"StatusId\":20}",
+  "After":"{\"ThreadId\":107944,\"StatusId\":17}",
+  "Context":"Q2_MessageThread","ContextId":"107944"}]
+
+[{"Before":"{\"ThreadId\":107944,\"StatusId\":17}",
+  "After":"{\"ThreadId\":107944,\"StatusId\":18}",
+  "Context":"Q2_MessageThread","ContextId":"107944"}]
+
+[{"Before":"{\"MessageId\":108069,\"MessageRecipientId\":108067,\"ToUserId\":null,\"ToAdminUserId\":null,\"ToMessageRecipientGroupId\":1,\"ReadDate\":null}","After":"{\"MessageId\":108069,\"MessageRecipientId\":108067,\"ToUserId\":null,\"ToAdminUserId\":null,\"ToMessageRecipientGroupId\":1,\"ReadDate\":\"2024-05-07 17:33:20.898778+00\"}","Context":"Q2_MessageRecipient","ContextId":"108067"}]
+
+[{"Before":"{\"ThreadId\":108014,\"StatusId\":17}",
+  "After":"{\"ThreadId\":108014,\"StatusId\":19}","Context":"Q2_MessageThread","ContextId":"108014"}]
+
+[{"Before":"{\"MessageId\":108069,\"MessageRecipientId\":108067,\"ToUserId\":null,\"ToAdminUserId\":null,\"ToMessageRecipientGroupId\":1,\"ReadDate\":null}",
+  "After":"{\"MessageId\":108069,\"MessageRecipientId\":108067,\"ToUserId\":null,\"ToAdminUserId\":null,\"ToMessageRecipientGroupId\":1,\"ReadDate\":\"2024-05-07 17:33:20.898778+00\"}","Context":"Q2_MessageRecipient","ContextId":"108067"}]
+
+[{"Before":"{\"ThreadId\":107944,\"StatusId\":18}",
+  "After":"{\"ThreadId\":107944,\"StatusId\":17}",
+  "Context":"Q2_MessageThread","ContextId":"107944"}]
+
+[{"Before":"{\"ThreadId\":107737,\"StatusId\":17}","After":"{\"ThreadId\":107737,\"StatusId\":18}","Context":"Q2_MessageThread","ContextId":"107737"}]
