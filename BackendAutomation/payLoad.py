@@ -1,11 +1,11 @@
 from utilities.configurations import *
 
 
-def addBookPayload(isbn, aisle):
+def addBookPayload(isbn):
     body = {
         'name': 'Learn Appium Automation with Java',
         'isbn': isbn,
-        'aisle': aisle,
+        'aisle': '227',
         'author': 'John Foe'
     }
     return body

@@ -18,7 +18,7 @@ connect_config = {
 
 
 def get_password():
-    return 'github password API'
+    return 'API key for github'
 
 
 def get_connection():
