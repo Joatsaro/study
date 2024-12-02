@@ -1,0 +1,48 @@
+2024-06-28 14:36:07,923 :INFO : test_formSubmission :first name is Rahul
+2024-06-28 14:36:08,150 :INFO : test_formSubmission :Alert text is :×
+Success! The Form has been submitted successfully!.
+2024-06-28 14:36:08,517 :INFO : test_formSubmission :first name is Anshika
+2024-06-28 14:36:08,666 :INFO : test_formSubmission :Alert text is :×
+Success! The Form has been submitted successfully!.
+2024-06-28 14:36:14,709 :INFO : test_2e2 :getting all the card items
+2024-06-28 14:36:14,722 :INFO : test_2e2 :iphone X
+2024-06-28 14:36:14,726 :INFO : test_2e2 :Samsung Note 8
+2024-06-28 14:36:14,730 :INFO : test_2e2 :Nokia Edge
+2024-06-28 14:36:14,738 :INFO : test_2e2 :Blackberry
+2024-06-28 14:36:14,885 :INFO : test_2e2 :Entering country name as ind
+2024-06-28 14:36:20,249 :INFO : test_2e2 :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-28 15:13:14,032 :INFO : test_formSubmission :first name is Rahul
+2024-06-28 15:13:14,246 :INFO : test_formSubmission :Alert text is :×
+Success! The Form has been submitted successfully!.
+2024-06-28 15:13:14,611 :INFO : test_formSubmission :first name is Anshika
+2024-06-28 15:13:14,749 :INFO : test_formSubmission :Alert text is :×
+Success! The Form has been submitted successfully!.
+2024-06-28 15:13:20,915 :INFO : test_2e2 :getting all the card items
+2024-06-28 15:13:20,938 :INFO : test_2e2 :iphone X
+2024-06-28 15:13:20,943 :INFO : test_2e2 :Samsung Note 8
+2024-06-28 15:13:20,948 :INFO : test_2e2 :Nokia Edge
+2024-06-28 15:13:20,953 :INFO : test_2e2 :Blackberry
+2024-06-28 15:13:21,057 :INFO : test_2e2 :Entering country name as ind
+2024-06-28 15:13:26,312 :INFO : test_2e2 :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-28 15:51:55,574 :INFO : test_formSubmission :first name is Rahul
+2024-06-28 15:51:55,811 :INFO : test_formSubmission :Alert text is :×
+Success! The Form has been submitted successfully!.
+2024-06-28 15:51:56,140 :INFO : test_formSubmission :first name is Anshika
+2024-06-28 15:51:56,272 :INFO : test_formSubmission :Alert text is :×
+Success! The Form has been submitted successfully!.
+2024-06-28 15:52:02,378 :INFO : test_2e2 :getting all the card items
+2024-06-28 15:52:02,400 :INFO : test_2e2 :iphone X
+2024-06-28 15:52:02,406 :INFO : test_2e2 :Samsung Note 8
+2024-06-28 15:52:02,411 :INFO : test_2e2 :Nokia Edge
+2024-06-28 15:52:02,415 :INFO : test_2e2 :Blackberry
+2024-06-28 15:52:02,530 :INFO : test_2e2 :Entering country name as ind
+2024-06-28 15:52:07,890 :INFO : test_2e2 :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 11:16:13,268 :INFO : test_formSubmission :first name is Rahul
+2024-07-01 11:16:13,483 :INFO : test_formSubmission :Alert text is :×
+Success! The Form has been submitted successfully!.
+2024-07-01 13:11:22,189 :INFO : test_formSubmission :first name is Rahul
+2024-07-01 13:11:22,415 :INFO : test_formSubmission :Alert text is :×
+Success! The Form has been submitted successfully!.
